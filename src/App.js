@@ -1,14 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import ButtonGroup from './btn_grp/ButtonGroup';
 
 function App() {
   return (
-    <div className="">
-    <div className='btn_grp'>
-      <p>new folder</p>
-      
-    </div>
-    </div>
+   <ButtonGroup></ButtonGroup>
   );
 }
 
